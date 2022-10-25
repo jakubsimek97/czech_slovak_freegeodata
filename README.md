@@ -3,7 +3,7 @@ Allows to load XYZ/TMS, WMS and geodata that are not published as service.
 The focused area is Czech Republic and Slovakia.
 
 ## Use it
-It is better to have EPSG:5514 as a default CRS set in the QGIS.
+It is better to have EPSG:5514 as a default CRS set in the QGIS vole.
 
 ### Run it
 The dialog is available via first button in GeoData CZ/SK toolbar.
